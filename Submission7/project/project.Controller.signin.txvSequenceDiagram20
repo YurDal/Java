@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<nodeSet  version="1.1">
+	<view uin="Vam8ynkilwveqcx-iwrly9">
+		<property name="$metaclass" value="SequenceDiagram20"/>
+		<property name="$referencedInteractionUin" value="design:node:::-yrgd8eilwveq4rdzgq5p"/>
+		<property name="$name" value="project.Controller.signin"/>
+		<property name="__options" value="option.nlayout.recursive=true"/>
+		<reference referencedUin="design:node:::-yrgd8eilwveq4rdzgq5p">
+			<property name="$shortcutReference" value="true"/>
+			<reference referencedUin="design:node:::7chx8lilwveq5b9wsv84:-yrgd8eilwveq4rdzgq5p">
+				<property name="background_color" value="232,242,239"/>
+			</reference>
+			<reference referencedUin="design:node:::-y8nsowilwveq4v-6s2fw0:-yrgd8eilwveq4rdzgq5p">
+				<reference referencedUin="design:node:::c87hzvilwveq4y-m3o58z:-y8nsowilwveq4v-6s2fw0:-yrgd8eilwveq4rdzgq5p">
+					<reference referencedUin="design:node:::l2gqtvilwveq56qv2z01:c87hzvilwveq4y-m3o58z:-y8nsowilwveq4v-6s2fw0:-yrgd8eilwveq4rdzgq5p">
+						<property name="background_color" value="240,240,240"/>
+					</reference>
+					<reference referencedUin="design:node:::7x5rzxilwveq5cu7yvy1:c87hzvilwveq4y-m3o58z:-y8nsowilwveq4v-6s2fw0:-yrgd8eilwveq4rdzgq5p">
+						<reference referencedUin="design:node:::7x5rzxilwveq5egrap9s:7x5rzxilwveq5cu7yvy1:c87hzvilwveq4y-m3o58z:-y8nsowilwveq4v-6s2fw0:-yrgd8eilwveq4rdzgq5p">
+							<reference referencedUin="design:node:::l2gqtvilwveq8p-atm2x6:7x5rzxilwveq5egrap9s:7x5rzxilwveq5cu7yvy1:c87hzvilwveq4y-m3o58z:-y8nsowilwveq4v-6s2fw0:-yrgd8eilwveq4rdzgq5p">
+								<property name="background_color" value="240,240,240"/>
+							</reference>
+							<reference referencedUin="design:node:::l2gqtvilwveq91-suxsdl:7x5rzxilwveq5egrap9s:7x5rzxilwveq5cu7yvy1:c87hzvilwveq4y-m3o58z:-y8nsowilwveq4v-6s2fw0:-yrgd8eilwveq4rdzgq5p">
+								<property name="background_color" value="240,240,240"/>
+							</reference>
+							<reference referencedUin="design:node:::l2gqtvilwveq9c8yph25:7x5rzxilwveq5egrap9s:7x5rzxilwveq5cu7yvy1:c87hzvilwveq4y-m3o58z:-y8nsowilwveq4v-6s2fw0:-yrgd8eilwveq4rdzgq5p">
+								<property name="background_color" value="240,240,240"/>
+							</reference>
+							<reference referencedUin="design:node:::l2gqtvilwveq9n-6mdojl:7x5rzxilwveq5egrap9s:7x5rzxilwveq5cu7yvy1:c87hzvilwveq4y-m3o58z:-y8nsowilwveq4v-6s2fw0:-yrgd8eilwveq4rdzgq5p">
+								<property name="background_color" value="240,240,240"/>
+							</reference>
+						</reference>
+						<reference referencedUin="design:node:::7x5rzxilwveq9whwplyp:7x5rzxilwveq5cu7yvy1:c87hzvilwveq4y-m3o58z:-y8nsowilwveq4v-6s2fw0:-yrgd8eilwveq4rdzgq5p">
+							<reference referencedUin="design:node:::l2gqtvilwveqcl-6u0z8p:7x5rzxilwveq9whwplyp:7x5rzxilwveq5cu7yvy1:c87hzvilwveq4y-m3o58z:-y8nsowilwveq4v-6s2fw0:-yrgd8eilwveq4rdzgq5p">
+								<property name="background_color" value="240,240,240"/>
+							</reference>
+						</reference>
+					</reference>
+				</reference>
+			</reference>
+		</reference>
+	</view>
+	<link uin="ieje0rilwveqcy7mzw9h">
+		<property name="$metaclass" value="SequenceDiagram20_LinkToInteraction"/>
+		<participant referencedUin="design:view:::Vam8ynkilwveqcx-iwrly9" role="Client"></participant>
+		<participant referencedUin="design:node:::-yrgd8eilwveq4rdzgq5p" role="Supplier"></participant>
+	</link>
+</nodeSet>

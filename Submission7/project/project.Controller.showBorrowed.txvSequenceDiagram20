@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<nodeSet  version="1.1">
+	<view uin="Vam8ynkilwvg1ji56lati">
+		<property name="$metaclass" value="SequenceDiagram20"/>
+		<property name="$referencedInteractionUin" value="design:node:::-yrgd8eilwvg146-4nzsub"/>
+		<property name="$name" value="project.Controller.showBorrowed"/>
+		<property name="__options" value="option.nlayout.recursive=true"/>
+		<reference referencedUin="design:node:::-yrgd8eilwvg146-4nzsub">
+			<property name="$shortcutReference" value="true"/>
+			<reference referencedUin="design:node:::-y8nsowilwvg1b5oof00:-yrgd8eilwvg146-4nzsub">
+				<reference referencedUin="design:node:::7x5rzxilwvg1b8-cm55sj:-y8nsowilwvg1b5oof00:-yrgd8eilwvg146-4nzsub">
+					<reference referencedUin="design:node:::7x5rzxilwvg1ba-270a7n:7x5rzxilwvg1b8-cm55sj:-y8nsowilwvg1b5oof00:-yrgd8eilwvg146-4nzsub">
+						<reference referencedUin="design:node:::c87hzvilwvg1bd-sfd31z:7x5rzxilwvg1ba-270a7n:7x5rzxilwvg1b8-cm55sj:-y8nsowilwvg1b5oof00:-yrgd8eilwvg146-4nzsub">
+							<reference referencedUin="design:node:::7x5rzxilwvg1bj-jx0kiq:c87hzvilwvg1bd-sfd31z:7x5rzxilwvg1ba-270a7n:7x5rzxilwvg1b8-cm55sj:-y8nsowilwvg1b5oof00:-yrgd8eilwvg146-4nzsub">
+								<reference referencedUin="design:node:::7x5rzxilwvg1blo4a53k:7x5rzxilwvg1bj-jx0kiq:c87hzvilwvg1bd-sfd31z:7x5rzxilwvg1ba-270a7n:7x5rzxilwvg1b8-cm55sj:-y8nsowilwvg1b5oof00:-yrgd8eilwvg146-4nzsub">
+									<reference referencedUin="design:node:::l2gqtvilwvg1eaavvj8g:7x5rzxilwvg1blo4a53k:7x5rzxilwvg1bj-jx0kiq:c87hzvilwvg1bd-sfd31z:7x5rzxilwvg1ba-270a7n:7x5rzxilwvg1b8-cm55sj:-y8nsowilwvg1b5oof00:-yrgd8eilwvg146-4nzsub">
+										<property name="background_color" value="240,240,240"/>
+									</reference>
+								</reference>
+							</reference>
+						</reference>
+					</reference>
+				</reference>
+			</reference>
+			<reference referencedUin="design:node:::-y8nsowilwvg14a-19aftp:-yrgd8eilwvg146-4nzsub">
+				<reference referencedUin="design:node:::c87hzvilwvg14c35673y:-y8nsowilwvg14a-19aftp:-yrgd8eilwvg146-4nzsub">
+					<reference referencedUin="design:node:::l2gqtvilwvg14t295n1w:c87hzvilwvg14c35673y:-y8nsowilwvg14a-19aftp:-yrgd8eilwvg146-4nzsub">
+						<property name="background_color" value="240,240,240"/>
+					</reference>
+					<reference referencedUin="design:node:::l2gqtvilwvg18blfm29h:c87hzvilwvg14c35673y:-y8nsowilwvg14a-19aftp:-yrgd8eilwvg146-4nzsub">
+						<property name="background_color" value="240,240,240"/>
+					</reference>
+					<reference referencedUin="design:node:::7x5rzxilwvg18p-9mo0bj:c87hzvilwvg14c35673y:-y8nsowilwvg14a-19aftp:-yrgd8eilwvg146-4nzsub">
+						<reference referencedUin="design:node:::7x5rzxilwvg18rboqgb3:7x5rzxilwvg18p-9mo0bj:c87hzvilwvg14c35673y:-y8nsowilwvg14a-19aftp:-yrgd8eilwvg146-4nzsub">
+							<reference referencedUin="design:node:::l2gqtvilwvg1eoqyyv5y:7x5rzxilwvg18rboqgb3:7x5rzxilwvg18p-9mo0bj:c87hzvilwvg14c35673y:-y8nsowilwvg14a-19aftp:-yrgd8eilwvg146-4nzsub">
+								<property name="background_color" value="240,240,240"/>
+							</reference>
+							<reference referencedUin="design:node:::l2gqtvilwvg1ij-75uv62:7x5rzxilwvg18rboqgb3:7x5rzxilwvg18p-9mo0bj:c87hzvilwvg14c35673y:-y8nsowilwvg14a-19aftp:-yrgd8eilwvg146-4nzsub">
+								<property name="background_color" value="240,240,240"/>
+							</reference>
+							<reference referencedUin="design:node:::l2gqtvilwvg1i8v3m2ul:7x5rzxilwvg18rboqgb3:7x5rzxilwvg18p-9mo0bj:c87hzvilwvg14c35673y:-y8nsowilwvg14a-19aftp:-yrgd8eilwvg146-4nzsub">
+								<property name="background_color" value="240,240,240"/>
+							</reference>
+							<reference referencedUin="design:node:::l2gqtvilwvg1bd-l0du2r:7x5rzxilwvg18rboqgb3:7x5rzxilwvg18p-9mo0bj:c87hzvilwvg14c35673y:-y8nsowilwvg14a-19aftp:-yrgd8eilwvg146-4nzsub">
+								<property name="background_color" value="240,240,240"/>
+							</reference>
+							<reference referencedUin="design:node:::l2gqtvilwvg1iv-nfj0ni:7x5rzxilwvg18rboqgb3:7x5rzxilwvg18p-9mo0bj:c87hzvilwvg14c35673y:-y8nsowilwvg14a-19aftp:-yrgd8eilwvg146-4nzsub">
+								<property name="background_color" value="240,240,240"/>
+							</reference>
+						</reference>
+					</reference>
+					<reference referencedUin="design:node:::l2gqtvilwvg18kdrga7b:c87hzvilwvg14c35673y:-y8nsowilwvg14a-19aftp:-yrgd8eilwvg146-4nzsub">
+						<property name="background_color" value="240,240,240"/>
+					</reference>
+					<reference referencedUin="design:node:::l2gqtvilwvg14k26roo:c87hzvilwvg14c35673y:-y8nsowilwvg14a-19aftp:-yrgd8eilwvg146-4nzsub">
+						<property name="background_color" value="240,240,240"/>
+					</reference>
+				</reference>
+			</reference>
+			<reference referencedUin="design:node:::7chx8lilwvg14y-5jm06a:-yrgd8eilwvg146-4nzsub">
+				<property name="background_color" value="248,240,232"/>
+			</reference>
+			<reference referencedUin="design:node:::7chx8lilwvg18pkxywu1:-yrgd8eilwvg146-4nzsub">
+				<property name="background_color" value="233,246,232"/>
+				<reference referencedUin="design:node:::-yp8yhilwvg18r-8cyble:7chx8lilwvg18pkxywu1:-yrgd8eilwvg146-4nzsub">
+					<reference referencedUin="design:node:::7chx8lilwvg1fnn47ppk:-yp8yhilwvg18r-8cyble:7chx8lilwvg18pkxywu1:-yrgd8eilwvg146-4nzsub">
+						<property name="background_color" value="232,244,239"/>
+					</reference>
+					<reference referencedUin="design:node:::7chx8lilwvg1bi-aptlim:-yp8yhilwvg18r-8cyble:7chx8lilwvg18pkxywu1:-yrgd8eilwvg146-4nzsub">
+						<property name="background_color" value="244,242,243"/>
+					</reference>
+				</reference>
+			</reference>
+			<reference referencedUin="design:node:::-y8nsowilwvg1ehdxsn4s:-yrgd8eilwvg146-4nzsub">
+				<reference referencedUin="design:node:::7x5rzxilwvg1ek-1qb4yk:-y8nsowilwvg1ehdxsn4s:-yrgd8eilwvg146-4nzsub">
+					<reference referencedUin="design:node:::7x5rzxilwvg1el-sigc0k:7x5rzxilwvg1ek-1qb4yk:-y8nsowilwvg1ehdxsn4s:-yrgd8eilwvg146-4nzsub">
+						<reference referencedUin="design:node:::c87hzvilwvg1eo-t1rw12:7x5rzxilwvg1el-sigc0k:7x5rzxilwvg1ek-1qb4yk:-y8nsowilwvg1ehdxsn4s:-yrgd8eilwvg146-4nzsub">
+							<reference referencedUin="design:node:::l2gqtvilwvg1fguy33l:c87hzvilwvg1eo-t1rw12:7x5rzxilwvg1el-sigc0k:7x5rzxilwvg1ek-1qb4yk:-y8nsowilwvg1ehdxsn4s:-yrgd8eilwvg146-4nzsub">
+								<property name="background_color" value="240,240,240"/>
+							</reference>
+							<reference referencedUin="design:node:::l2gqtvilwvg1f1obaw83:c87hzvilwvg1eo-t1rw12:7x5rzxilwvg1el-sigc0k:7x5rzxilwvg1ek-1qb4yk:-y8nsowilwvg1ehdxsn4s:-yrgd8eilwvg146-4nzsub">
+								<property name="background_color" value="240,240,240"/>
+							</reference>
+						</reference>
+					</reference>
+				</reference>
+			</reference>
+		</reference>
+	</view>
+	<link uin="ieje0rilwvg1jjj75uvl">
+		<property name="$metaclass" value="SequenceDiagram20_LinkToInteraction"/>
+		<participant referencedUin="design:view:::Vam8ynkilwvg1ji56lati" role="Client"></participant>
+		<participant referencedUin="design:node:::-yrgd8eilwvg146-4nzsub" role="Supplier"></participant>
+	</link>
+</nodeSet>
